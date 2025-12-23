@@ -1,0 +1,12 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "Tether USD (USDT) is a TRC20 token for testing and development purposes.",
+  "website": "https://jabalarbil.com/",
+  "explorer": "https://nile.tronscan.org/#/contract/TGU5DVBezcb1V9zDGDh37DxfS7kcmETWFg/code",
+  "logoURI": "https://raw.githubusercontent.com/bonelyaw/usdtest-token/main/logo.png",
+  "status": "active",
+  "id": "TGU5DVBezcb1V9zDGDh37DxfS7kcmETWFg"
+}
